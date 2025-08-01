@@ -1,0 +1,29 @@
+/* Imagenes post */
+.cuerpo img{
+   display: block;
+   width: 100%;
+}
+
+.imagenPost{
+   display: block;
+   width: 100%;
+   padding: 2px 0px;
+}
+
+.iconModal{
+   margin-top: 8px;
+   display: inline-block;
+   width: 40px;
+   height: 40px;
+   text-align: center;
+   line-height: 28px;
+   padding: 5px;
+   border: 1px solid rgb(221, 221, 221);
+   border-radius: 5px;
+   cursor: pointer;
+}
+
+.iconModal:hover{
+   background-color: #0084FF;
+   color: white;
+}
